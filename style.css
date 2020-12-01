@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+*{
+    background-color: #333333;
+    font-family: 'Oswald', sans-serif;
+}
+
+.header{
+    font-size: 80px;
+    color: #ffffff;
+    text-align: center;
+}
+.names{
+    text-align: center;
+    color: #ffffff;
+    font-size: 45px;
+}
+a{
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    text-decoration: none;
+    text-emphasis: none;
+    color: #ffffff;
+}
+a:hover{
+    color: black;
+}
+.info{
+    text-align: center;
+    font-size: 40px;
+}
+.info #git:hover{
+    color: black;
+}
+
+.info #insta:hover{
+    color: rgb(146, 9, 209);
+}
